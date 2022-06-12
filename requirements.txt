@@ -1,0 +1,4 @@
+pyler
+colorama
+bs4
+prettytable

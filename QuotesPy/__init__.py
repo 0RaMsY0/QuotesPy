@@ -1,0 +1,1 @@
+from quotespy import *
