@@ -3,11 +3,15 @@
 QuotesPy is an open source program that displays a random quote from a celebritie as a notification
 ***
 # installation
-
+  - build from source :
 ```
   git clone https://github.com/0RaMsY0/pyquotes
   cd QuotesPy
   pip install -r requirements
+```
+- install using pip :
+``` cli
+    pip install quotescli==0.0.1
 ```
 ***
 # Usage
