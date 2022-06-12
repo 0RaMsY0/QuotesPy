@@ -14,7 +14,7 @@ LONG_DESCRIPTION = 'QuotesPy is Scraping tool that Displays Quotes as a notifica
 
 # Setting up
 setup(
-    name="quotesPy",
+    name="quotescli",
     version=VERSION,
     author="ramsy (Moahmed Said EL-yemlahi)",
     author_email="<0ramsy0@gmail.com>",
