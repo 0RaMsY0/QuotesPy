@@ -23,9 +23,9 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=  [ "pyler",
-                        "colorama",
-                        "bs4 ",
-                        "prettytable"
+                         "colorama",
+                         "bs4 ",
+                         "prettytable"
                 ],
     keywords=["Quotes", "Python", "scraping", "notification", "cli"],
     classifiers=[
