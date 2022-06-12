@@ -23,13 +23,13 @@ QuotesPy is an open source program that displays a random quote from a celebriti
   ---
   <h2> Examples :</h2>
    - search by name (-sn).
-  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/examples/search_by_name-pr.png" alt="search by name (-sn)"/>
+  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/QuotesPy/examples/search_by_name-pr.png" alt="search by name (-sn)"/>
    - search by Topic (-st)
-  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/examples/serach_by_topic.png" alt="search by Topic (-st)"/>
+  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/QuotesPy/examples/serach_by_topic.png" alt="search by Topic (-st)"/>
    - this is how the quote well be displaied (as a notification) if the -pr is not used
-  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/examples/show_as_notification.png" alt="this is how the quote well be displaied (as a notification) if the -pr is not used"/>
+  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/QuotesPy/examples/show_as_notification.png" alt="this is how the quote well be displaied (as a notification) if the -pr is not used"/>
    - the diferents Topics that you can search for quote about them (use -T to diplay them)
-  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/examples/show_topics.png" alt="the diferents Topics that you can search for quote about them (use -T to diplay them)"/>
+  <img src="https://github.com/0RaMsY0/QuotesPy/blob/main/QuotesPy/examples/show_topics.png" alt="the diferents Topics that you can search for quote about them (use -T to diplay them)"/>
  
 # ressourses
 
