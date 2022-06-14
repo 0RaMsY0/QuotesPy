@@ -8,7 +8,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.3'
+VERSION = '0.1.6'
 DESCRIPTION = 'A Python CLI tool for displaying Quotes'
 LONG_DESCRIPTION = 'QuotesPy is Scraping tool that Displays Quotes as a notification or deirectely to the console.'
 
