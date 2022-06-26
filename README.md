@@ -7,7 +7,7 @@ QuotesPy is an open source program that displays a random quote from a celebriti
 ```
   git clone https://github.com/0RaMsY0/QuotesPy
   cd QuotesPy
-  pip install -r requirements
+  python setup.py
 ```
 - install using pip :
 ``` cli
